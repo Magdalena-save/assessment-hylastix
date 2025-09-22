@@ -55,3 +55,6 @@ Internet → (opciono) WAF → **reverse proxy** (Nginx/Envoy/Traefik + oauth2-p
   - `ECDHE-ECDSA-CHACHA20-POLY1305`, `ECDHE-RSA-CHACHA20-POLY1305`
   - `ECDHE-ECDSA-AES128-GCM-SHA256`, `ECDHE-RSA-AES128-GCM-SHA256`
 - Onemogući `3DES`, `RC4`, `MD5`, `aNULL`, `eNULL`, `DES`, `EXPORT`; preferiraj **forward secrecy** (ECDHE).
+## Deliverables
+- PDF (theory + process): assessmentMagdalenaVranic.pdf
+- Git repo: https://github.com/Magdalena-save/assessment-hylastix
