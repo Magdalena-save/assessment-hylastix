@@ -1,0 +1,14 @@
+# Keys & cert artifacts
+*.key
+*.csr
+*.srl
+*.p12
+*.pem
+
+# Packer artifacts
+packer_cache/
+output-*/
+
+# OS junk
+.DS_Store
+Thumbs.db
